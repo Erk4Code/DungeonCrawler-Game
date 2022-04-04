@@ -1,0 +1,10 @@
+100
+31
+23
+3
+Weapon,Table Knife,5,12,7
+Armor,Dirty T-Shirt,15,20,3
+Armor,Leather Helmet,10,20,3
+Other,Bread Loaf,2,4,0
+Armor,Helmet,5,40,20
+Armor,Chain Mail Chestplate,8,40,30

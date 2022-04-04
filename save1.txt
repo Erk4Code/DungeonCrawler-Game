@@ -1,0 +1,10 @@
+45
+19
+4
+2
+Weapon,Table Knife,5,12,7
+Armor,Dirty T-Shirt,15,20,3
+Armor,Leather Helmet,10,20,3
+Weapon,Battle Axe,12,55,13
+Weapon,Golden Sword,10,75,15
+Weapon,Alluminum Sword,6,35,8
